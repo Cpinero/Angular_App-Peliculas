@@ -1,3 +1,3 @@
 Resultado en Live
 
-peliculasbuscador.netlify.app
+https://buscadorpelicula.netlify.app/#/home
